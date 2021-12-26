@@ -1,0 +1,7 @@
+cmake-build-debug-arm-none-eabi-gxx/*
+Debug/*
+.idea/*
+.settings/
+.vscode/*
+Drivers/*
+Middlewares/*
